@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1131,
+        "name": "John Doe",
+        "phone": "(709) 123-1234",
+        "carOwned": false,
+        "carPrice": null
+    },
+    {
+        "id": 1132,
+        "name": "Jane Smith",
+        "phone": "(709) 098-0987",
+        "carOwned": true,
+        "carPrice": 40000.00
+    },
+    {
+        "id": 1133,
+        "name": "Beth Harvey",
+        "phone": "(709) 765-7654",
+        "carOwned": true,
+        "carPrice": 20000.00
+    },
+    {
+        "id": 1134,
+        "name": "Francis Willcott",
+        "phone": "(709) 937-5793",
+        "carOwned": false,
+        "carPrice": null
+    },
+    {
+        "id": 1135,
+        "name": "Debbie Ward",
+        "phone": "(709) 290-4510",
+        "carOwned": true,
+        "carPrice": 80000.00
+    }
+]
